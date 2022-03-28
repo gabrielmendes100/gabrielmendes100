@@ -7,7 +7,7 @@
 
 - 📫 Entre em contato comigo: **gabriel.lucascolangelo@gmail.com**
 
-- 📄 Minhas Experiências: **Além de terminar meu Ensino Médio Integrado com o curso de Tecnologias da Informação,também completei um curso de 1 ano de programação Front-End pela #Kick. Nele, participei de um concurso de sites. Meu site desenvolvido para o concurso pode ser visto [aqui](https://github.com/gabrielmendes100/Gabriel-Lucas-Colangelo-Mendes-Concurso-Kick)**
+- 📄 Minhas Experiências: **Além de terminar meu Ensino Médio Integrado com o curso de Tecnologias da Informação,também completei um curso de 1 ano de programação Front-End pela #Kick. Nele, participei de um concurso de sites. Meu site desenvolvido para o concurso pode ser visto [aqui](https://github.com/gabrielmendes100/Gabriel-Lucas-Colangelo-Mendes-Concurso-Kick).**
 
 <h3 align="left">Fale Comigo:</h3>
 <p align="left">
