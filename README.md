@@ -9,7 +9,7 @@
 
 - 📫 Entre em contato comigo: <a href="mailto:gabriel.lucascolangelo@gmail.com">gabriel.lucascolangelo@gmail.com</a>
 
-- 📫 Você pode visualizar meu currículo <a href="curriculo_gabriel.pdf" download>aqui</a>.
+- 📫 Você pode visualizar meu currículo <a href="curriculo_gabriel.pdf" download>aqui</a>
 
 
 
