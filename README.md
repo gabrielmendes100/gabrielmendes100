@@ -1,13 +1,16 @@
 <h1 align="center">Olá 👋, eu sou o Gabriel Lucas!</h1>
 <h3 align="left">Eu tenho 18 anos e sou recém-formado no Ensino Médio Integrado com Curso Técnico em T.I pelo Instituto Federal Sul-Rio-Grandense em Passo Fundo.</h3>
 
--- 📄 Minhas Experiências: **Além de terminar meu Ensino Médio Integrado com o curso de Tecnologias da Informação, também completei um curso de 1 ano de Programação Front-End pela #Kick. Nele, participei de um concurso de sites. Meu site desenvolvido para o concurso pode ser visto [aqui](https://github.com/gabrielmendes100/Gabriel-Lucas-Colangelo-Mendes-Concurso-Kick).**
+-- 📄 Minhas Experiências: **Além de terminar meu Ensino Médio Integrado com o curso de Tecnologias da Informação, também completei um curso de 1 ano de Programação Front-End pela #Kick. Nele, participei de um concurso de sites. Meu site desenvolvido para o concurso pode ser visto [aqui](https://github.com/gabrielmendes100/Gabriel-Lucas-Colangelo-Mendes-Concurso-Kick).
 
 - 🌱 Em meu cursos, tive contato com: **HTML, CSS, Javascript, Python, PostgreSQL e MongoDB**
 
 - 📘 Estou aprendendo: **Frameworks (Vue, React & Bootstrap) & Wordpress**
 
 - 📫 Entre em contato comigo: <a href="mailto:gabriel.lucascolangelo@gmail.com">gabriel.lucascolangelo@gmail.com</a>
+
+- 📫 Você pode visualizar meu currículo <a href="curriculo_gabriel.pdf" download>aqui</a>.
+
 
 
 <h4 align="left">Você também pode me encontrar aqui:</h4>
