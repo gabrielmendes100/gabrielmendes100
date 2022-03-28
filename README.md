@@ -9,7 +9,10 @@
 
 - 📄 Minhas Experiências: **Além de terminar meu Ensino Médio Integrado com o curso de Tecnologias da Informação,também completei um curso de 1 ano de programação Front-End pela #Kick. Nele, participei de um concurso de sites. Meu site desenvolvido para o concurso pode ser visto [aqui](https://github.com/gabrielmendes100/Gabriel-Lucas-Colangelo-Mendes-Concurso-Kick).**
 
-<h3 align="left">Fale Comigo:</h3>
+📫 Entre em contato comigo: <a href="mailto:gabriel.lucascolangelo@gmail.com">gabriel.lucascolangelo@gmail.com</a>
+
+
+<h4 align="left">Você também pode me encontrar aqui:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/gabriel lucas c. mendes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel lucas c. mendes" height="30" width="40" /></a>
 </p>
