@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o Gabriel Lucas!</h1>
 <h3 align="left">Eu tenho 18 anos e sou recém-formado no Ensino Médio Integrado com Curso Técnico em T.I pelo Instituto Federal Sul-Rio-Grandense em Passo Fundo.</h3>
 
-- 🌱 Atualmente, estou me aperfeiçoando em: **HTML, CSS, Javascript & Python**
+- 🌱 Em meu cursos, tive contato com: **HTML, CSS, Javascript, Python, PostgreSQL e MongoDB**
 
 - 📘 Estou aprendendo: **Frameworks (Vue, React & Bootstrap) & Wordpress**
 
