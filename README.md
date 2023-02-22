@@ -9,10 +9,6 @@
 
 - 📫 Entre em contato comigo: <a href="mailto:gabriel.lucascolangelo@gmail.com">gabriel.lucascolangelo@gmail.com</a>
 
-- 📫 Você pode visualizar meu currículo <a href="curriculo_gabriel.pdf" download>aqui</a>
-
-
-
 <h4 align="left">Você também pode me encontrar aqui:</h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/gabriel-lucas-c-mendes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel lucas c. mendes" height="30" width="40" /></a>
