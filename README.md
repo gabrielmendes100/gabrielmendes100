@@ -1,8 +1,10 @@
 <h1 align="center">Olá 👋, eu sou o Gabriel Lucas!</h1>
--- 👤 Eu tenho 18 anos e sou recém-formado no Ensino Médio Integrado com Curso Técnico em T.I pelo Instituto Federal Sul-Rio-Grandense em Passo Fundo.
+-- 👤 Eu tenho 19 anos sou formado no Ensino Médio Integrado com Curso Técnico em T.I pelo Instituto Federal Sul-Rio-Grandense em Passo Fundo e atualmente trabalho na TOTVS Oeste como Analista de Desenvolvimento de Sistemas.
 
--- 📄 Minhas Experiências: **Além de terminar meu Ensino Médio Integrado com o curso de Tecnologias da Informação, também completei um curso de 1 ano de Programação Front-End pela #Kick. Nele, participei de um concurso de sites. Meu site desenvolvido para o concurso pode ser visto [aqui](https://github.com/gabrielmendes100/Gabriel-Lucas-Colangelo-Mendes-Concurso-Kick).
+-- 📄 Minhas Experiências: **Além do meu atual cargo na TOTVS e de terminar meu Ensino Médio Integrado com o curso de Tecnologias da Informação, também completei um curso de 1 ano de Programação Front-End pela #Kick. Nele, participei de um concurso de sites. Meu site desenvolvido para o concurso pode ser visto [aqui](https://github.com/gabrielmendes100/Gabriel-Lucas-Colangelo-Mendes-Concurso-Kick).
 
+- 🤵 Atualmente, trabalho com ADVPL, linguagem principal do sistema Protheus da TOTVS. Também utilizo T-SQL em meus desenvolvimentos, assim como realizo integrações com Web Services SOAP e REST.
+- 
 - 🌱 Em meu cursos, tive contato com: **HTML, CSS, Javascript, Python, PostgreSQL e MongoDB**
 
 - 📘 Estou aprendendo: **Frameworks (Vue, React & Bootstrap) & Wordpress**
