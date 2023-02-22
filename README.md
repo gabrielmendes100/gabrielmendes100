@@ -17,7 +17,7 @@
 
 <h4 align="left">Você também pode me encontrar aqui:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/gabriel lucas c. mendes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel lucas c. mendes" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gabriel-lucas-c-mendes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel lucas c. mendes" height="30" width="40" /></a>
 </p>
 
 <h4 align="left">Linguagens:</h4>
