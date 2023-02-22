@@ -3,7 +3,7 @@
 
 -- 📄 Além do meu atual cargo na TOTVS e de terminar meu Ensino Médio Integrado com o curso de Tecnologias da Informação, também completei um curso de 1 ano de Programação Front-End pela #Kick. Nele, participei de um concurso de sites. Meu site desenvolvido para o concurso pode ser visto [aqui](https://github.com/gabrielmendes100/Gabriel-Lucas-Colangelo-Mendes-Concurso-Kick).
 
-- 🤵 Atualmente trabalho com ADVPL, linguagem principal do sistema Protheus da TOTVS. Também utilizo T-SQL em meus desenvolvimentos, assim como realizo integrações com Web Services SOAP e REST.
+- 🤵 Atualmente trabalho com **ADVPL**, linguagem principal do sistema Protheus da TOTVS. Também utilizo **T-SQL** em meus desenvolvimentos, assim como realizo integrações com Web Services **SOAP** e **REST**.
 
 - 🌱 Em meu cursos, tive contato com: **HTML, CSS, Javascript, Python, PostgreSQL e MongoDB**
 
