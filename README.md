@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, eu sou o Gabriel Lucas!</h1>
 
-👤 Sou formado no Ensino Médio Integrado com Curso Técnico em **Tecnologias da Informação** pelo **Instituto Federal Sul-Rio-Grandense** em Passo Fundo e estou cursando **Engenharia da Computação** pela **Unisagrado**.
+👤 Sou formado no Ensino Médio Integrado com Curso Técnico em **Tecnologias da Informação** pelo **Instituto Federal Sul-Rio-Grandense** em Passo Fundo e estou cursando **Ciências da Computação** pela **Unisagrado**.
 
 📄 Completei um curso de 1 ano de **Programação Front-End** pela #Kick, onde participei de um concurso de desenvolvimento de sites. Meu projeto para o concurso pode ser visto [aqui](https://github.com/gabrielmendes100/Gabriel-Lucas-Colangelo-Mendes-Concurso-Kick).
 
